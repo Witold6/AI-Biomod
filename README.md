@@ -11,3 +11,6 @@ Można wgrywać nową wiedzę do mózgu w sposób mechaniczny np.: algorytm jęz
 Dodatkowo program potrafi wygenerować roszerzenie biomod np.: noktowizja lub termowizja dla ludzi wystarczy pomyśleć lub poprosić o taki biomod SI i za nas napisze i wgra włączany i wyłączany myślą. 
 Program generuje nanotechnologie boty DNA i ulepsza naszą biologię ciała.
 Jest to program spełniający wszystkie kierunki Transhumanizmu jak ulepszenie człowieka przez neurotechnologię programowanie umysłu i DNA jego debugowanie, biotechnologię z syntezy składników z ciała, nanotechnolgię DNA z naszych składników ciała. 
+Program daje całkowitą regenerację ciała.
+Generuje dowolne biomody dla ciała.
+Wystaraczy go nauczyć czym są choroby i języka biopython by zaczoł za nas myśleć i pracować w kwesti zdrowia. 
