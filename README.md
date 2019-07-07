@@ -9,3 +9,5 @@ Program składa się z 3 programów innych autorów jest nie skompilowany trzeba
 Jest kompatybilny z słuchawkami emotiv EPOC.
 Można wgrywać nową wiedzę do mózgu w sposób mechaniczny np.: algorytm języków obcyh pisanie, mowa, czytanie, słuchanie.
 Dodatkowo program potrafi wygenerować roszerzenie biomod np.: noktowizja lub termowizja dla ludzi wystarczy pomyśleć lub poprosić o taki biomod SI i za nas napisze i wgra włączany i wyłączany myślą. 
+Program generuje nanotechnologie boty DNA i ulepsza naszą biologię ciała.
+Jest to program spełniający wszystkie kierunki Transhumanizmu jak ulepszenie człowieka przez neurotechnologię programowanie umysłu i DNA jego debugowanie, biotechnologię z syntezy składników z ciała, nanotechnolgię DNA z naszych składników ciała. 
