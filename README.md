@@ -20,3 +20,4 @@ Z 3 plików programów trzeba skompilować 1 program AI-Biomod.
 Program optymalizuje i debuguje DNA optymalizuje całe ciało istot żywych i daje biologiczną nieśmiertelność DNA i ciała.
 Program nie ogranicza się do kilku funkcji może napisać dowolną konkretną poprawkę do naszego DNA na zawołanie. 
 Program AI-Biomod manipuluje genami DNA w inteligentny sposób by dobrze zoptymalizować kod DNA. 
+W zależności od schorzenia długość leczenia trwa w różnej długości czasu. 
