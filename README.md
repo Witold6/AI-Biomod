@@ -16,3 +16,4 @@ Generuje dowolne biomody dla ciała.
 Wystaraczy go nauczyć czym są choroby i języka biopython by zaczoł za nas myśleć i pracować w kwesti zdrowia. 
 Jest to AI/SI antywirus dla istot biologicznych zabezpiecza DNA i ciało przed każdą chorobą i leczy debugując w sposób kwantowy jak i ulepsza ciało.
 Program stale się sam doskonali w walce z chorobami ma tryb dodawania dodatkowych biomodów roszerzeń takich jak noktowizja, termowizja czy lepszy węch i słuch.
+Z 3 plików programów trzeba skompilować 1 program AI-Biomod. 
