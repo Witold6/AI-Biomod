@@ -14,3 +14,4 @@ Jest to program spełniający wszystkie kierunki Transhumanizmu jak ulepszenie c
 Program daje całkowitą regenerację ciała.
 Generuje dowolne biomody dla ciała.
 Wystaraczy go nauczyć czym są choroby i języka biopython by zaczoł za nas myśleć i pracować w kwesti zdrowia. 
+Jest to AI/SI antywirus dla istot biologicznych zabezpiecza DNA i ciało przed każdą chorobą i leczy debugując w sposób kwantowy jak i ulepsze ciało.
