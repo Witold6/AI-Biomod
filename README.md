@@ -23,3 +23,4 @@ Program AI-Biomod manipuluje genami DNA w inteligentny sposób by dobrze zoptyma
 W zależności od schorzenia długość leczenia trwa w różnej długości czasu
 Program może komunikować się bez słuchawek kasku BCI i chipów za pomocą fal radiowych Wi-Fi jest to pierwsze EEG Wi-Fi
 Program też może służyć do kontroli elektroniki myślami za pośrednictwem EEG Wi-Fi.
+Program może też inteligentnie optymalizować i czyścić systemy z bez użytecznych plików mowa o czysczeniu rejestrów i optymalizacji systemu pisząc pod system akatualizacje i programy. 
