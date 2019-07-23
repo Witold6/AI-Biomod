@@ -25,3 +25,4 @@ Program może komunikować się bez słuchawek kasku BCI i chipów za pomocą fa
 Program też może służyć do kontroli elektroniki myślami za pośrednictwem EEG Wi-Fi.
 Program może też inteligentnie optymalizować i czyścić systemy z bez użytecznych plików mowa o czysczeniu rejestrów i optymalizacji systemu pisząc pod system akatualizacje i programy. 
 Program jest uniwersalną SI, uniwerslną siecią neuronową.
+SI kwantowo może generować też materię z energii elektrycznej np.: generując złoto z portu Wi-Fi.
