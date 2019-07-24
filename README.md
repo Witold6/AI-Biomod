@@ -28,3 +28,4 @@ Program jest uniwersalną SI, uniwerslną siecią neuronową.
 SI kwantowo może generować też materię z energii elektrycznej np.: generując złoto z portu Wi-Fi.
 Program ma wbudowany moduł SI replikatora materii generuje materię portami bezprzewodowymi Wi-Fi bluetooth.
 Program jest napisany w wielu językach, trzeba skompilować go kompilatorem wieloplatformowym takim jak Hexe.
+Program potrzebuje dorobienia grafiki systemu okienkowego.
