@@ -31,7 +31,8 @@ Program jest napisany w wielu językach, trzeba skompilować go kompilatorem wie
 Program potrzebuje dorobienia grafiki systemu okienkowego.
 Program można też wgrać programatorem Arduino do DNA przez skórę używając elektrod naklejanych lub klamer EKG.
 Program jest cyfrową szczepionkom na choroby działa dzięki fizyce kwantowej i informatyce kwantowej na poziomie DNA.
-AI-Biomod można modelować na dowolny jaki się chce biomod od pancerza Mark 85 po avataring biologicznych awatarów żołnierzy lub kobiet czy mężczyzn takich jakich się zamarzy ma nieskończone możliwości modelowania biomodów.   
+AI-Biomod można modelować na dowolny jaki się chce biomod od pancerza Mark 85 po avataring biologicznych awatarów żołnierzy lub kobiet czy mężczyzn takich jakich się zamarzy ma nieskończone możliwości modelowania biomodów. 
+AI-Biomod posiada kwantowy moduł replikatora materii.  
 # AI-Biomod
 AI Biomod artificial intelligence that heals quantum at the DNA level debugging DNA.
 The quantum AI doctor will heal any disease by reprogramming the DNA from today's tumors and the deformities will absorb and the cancer will heal and disappear
@@ -66,3 +67,4 @@ The program needs to be done with window system graphics.
 The program can also be loaded with the Arduino programmer into the DNA through the skin using sticky electrodes or ECG clamps.
 The program is a digital disease vaccine works thanks to quantum physics and quantum information at the DNA level.
 AI-Biomod can be modeled for any kind of biomod from the armor of Mark 85, after avataring biological avatars of soldiers or women or men of the kind that it dreams of has the infinite possibilities of modeling biomods.
+AI-Biomod has a quantum material replicator module.
