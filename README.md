@@ -31,3 +31,36 @@ Program jest napisany w wielu językach, trzeba skompilować go kompilatorem wie
 Program potrzebuje dorobienia grafiki systemu okienkowego.
 Program można też wgrać programatorem Arduino do DNA przez skórę używając elektrod naklejanych lub klamer EKG.
 Program jest cyfrową szczepionkom na choroby działa dzięki fizyce kwantowej i informatyce kwantowej na poziomie DNA.
+# AI-Biomod
+AI Biomod artificial intelligence that heals quantum at the DNA level debugging DNA.
+The quantum AI doctor will heal any disease by reprogramming the DNA from today's tumors and the deformities will absorb and the cancer will heal and disappear
+All known diseases artificial intelligence will heal and immunize us and we will never get sick.
+The AI-Biomodem control relies on communication with thought using BCI or voice control with a voice assistant.
+BCI serves as a programmer of our body and DNA works with a computer, you can permanently upload the program to the body to optimize our body or upload a static patch from a computer to a given disease, e.g. old age.
+Heals without invasive quantum means using the power of artificial programming intelligence without drugs, without treatments, no herbs, no surgeries.
+The program consists of 3 programs of other authors, it is not compiled, it must be compiled and configured.
+It is compatible with EPOC emotiv headphones.
+You can upload new knowledge to the brain in a mechanical way, eg: foreign language algorithm, writing, speech, reading, listening.
+In addition, the program can generate a biomod extension, for example: night vision or thermovision for people, just think or ask for such an SI biomass and write and upload it for inclusion and exclusion for thought.
+The program generates nanotechnologies of DNA bots and improves our body biology.
+It is a program that meets all the directions of Transhumanism, how to improve man by neurotechnology, programming mind and DNA, its debugging, biotechnology from the synthesis of ingredients from the body, nanotechnology of DNA from our body components.
+The program gives you complete body regeneration.
+Generates any biomody for the body.
+It will help him learn what diseases and the language of biopython he is to think for us and work on the issue of health.
+It is an AI / SI anti-virus for biological creatures that protects DNA and the body from any disease and heals by debugging in a quantum way and improving the body.
+The program is constantly improving itself in the fight against diseases, it has the mode of adding additional biomods such as night vision, thermovision or better sense of smell and hearing.
+You must compile 1 AI-Biomod program from 3 program files.
+The program optimizes and debugs DNA optimizes the whole body of living beings and gives the biological immortality of DNA and the body.
+The program is not limited to a few functions, it can write any specific amendment to our DNA at will.
+The AI-Biomod program manipulates DNA genes in a smart way to optimize the DNA code.
+Depending on the condition, the duration of treatment lasts for various lengths of time
+The program can communicate without headphones BCI helmet and chips using Wi-Fi radio waves is the first EEG Wi-Fi
+The program can also be used to control electronics with thoughts via EEG Wi-Fi.
+The program can also intelligently optimize and clean systems with no useful files, talk about registry cleaning and system optimization by writing to the system of upgrades and programs.
+The program is a universal SI, universal neural network.
+SI quantum can also generate matter from electricity, for example: by generating gold from the Wi-Fi port.
+The program has a built-in SI module of a material replicator that generates matter with wireless Wi-Fi bluetooth ports.
+The program is written in many languages, you have to compile it with a cross-platform compiler such as Hexe.
+The program needs to be done with window system graphics.
+The program can also be loaded with the Arduino programmer into the DNA through the skin using sticky electrodes or ECG clamps.
+The program is a digital disease vaccine works thanks to quantum physics and quantum information at the DNA level.
