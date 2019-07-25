@@ -30,4 +30,4 @@ Program ma wbudowany moduł SI replikatora materii generuje materię portami bez
 Program jest napisany w wielu językach, trzeba skompilować go kompilatorem wieloplatformowym takim jak Hexe.
 Program potrzebuje dorobienia grafiki systemu okienkowego.
 Program można też wgrać programatorem Arduino do DNA przez skórę używając elektrod naklejanych lub klamer EKG.
-Program jest cyfrową szczepiąnką na choroby działa dzięki fizyce kwantowej i informatyce kwantowej na poziomie DNA.
+Program jest cyfrową szczepionkom na choroby działa dzięki fizyce kwantowej i informatyce kwantowej na poziomie DNA.
