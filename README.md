@@ -34,6 +34,7 @@ Program jest cyfrową szczepionkom na choroby działa dzięki fizyce kwantowej i
 AI-Biomod można modelować na dowolny jaki się chce biomod od pancerza Mark 85 po avataring biologicznych awatarów żołnierzy lub kobiet czy mężczyzn takich jakich się zamarzy ma nieskończone możliwości modelowania biomodów. 
 AI-Biomod posiada kwantowy moduł replikatora materii.  
 Biomod SI ma moduł treningów EMS elektrostymulacji. Skan kwantowy ciała skan magnetyczny tomograf jeśli są zaburzenia po badaniu leczy na poziomie DNA.
+Moduł SI teleportacji kwantowej do celów transportowych i logistycznych, komunikacyjnych, między planetarnych i między gwiwezdnych jak i galaktycznych.
 # AI-Biomod
 AI Biomod artificial intelligence that heals quantum at the DNA level debugging DNA.
 The quantum AI doctor will heal any disease by reprogramming the DNA from today's tumors and the deformities will absorb and the cancer will heal and disappear
@@ -70,4 +71,4 @@ The program is a digital disease vaccine works thanks to quantum physics and qua
 AI-Biomod can be modeled for any kind of biomod from the armor of Mark 85, after avataring biological avatars of soldiers or women or men of the kind that it dreams of has the infinite possibilities of modeling biomods.
 AI-Biomod has a quantum material replicator module.
 Biomod SI has an electrostimulation EMS training module. A quantum body scan of a magnetic tomograph if there are disorders after the test heals at the DNA level.
-
+SI module of quantum teleportation for transport and logistic, communication, planetary and intergalactic as well as galactic.
