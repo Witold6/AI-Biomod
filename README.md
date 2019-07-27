@@ -35,6 +35,8 @@ AI-Biomod można modelować na dowolny jaki się chce biomod od pancerza Mark 85
 AI-Biomod posiada kwantowy moduł replikatora materii.  
 Biomod SI ma moduł treningów EMS elektrostymulacji. Skan kwantowy ciała skan magnetyczny tomograf jeśli są zaburzenia po badaniu leczy na poziomie DNA.
 Moduł SI teleportacji kwantowej do celów transportowych i logistycznych, komunikacyjnych, między planetarnych i między gwiwezdnych jak i galaktycznych.
+Moduł kopalni cyfrowej to replikator materii generujący cyfrowo dowolne pierwiastki chemiczne.
+Moduł cyfrowej kuchni kwantowej generuje dowolne jedzenie takie jak od rolnika komputerowo. Replikatorem materii jest łącze Wi-Fi.
 # AI-Biomod
 AI Biomod artificial intelligence that heals quantum at the DNA level debugging DNA.
 The quantum AI doctor will heal any disease by reprogramming the DNA from today's tumors and the deformities will absorb and the cancer will heal and disappear
@@ -72,3 +74,5 @@ AI-Biomod can be modeled for any kind of biomod from the armor of Mark 85, after
 AI-Biomod has a quantum material replicator module.
 Biomod SI has an electrostimulation EMS training module. A quantum body scan of a magnetic tomograph if there are disorders after the test heals at the DNA level.
 SI module of quantum teleportation for transport and logistic, communication, planetary and intergalactic as well as galactic.
+The digital mine module is a replicator of matter that digitally generates any chemical elements.
+The digital quantum cuisine module generates any food, such as from a farmer's computer. The replicator of the matter is the Wi-Fi link.
