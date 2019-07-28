@@ -39,6 +39,7 @@ Moduł kopalni cyfrowej to replikator materii generujący cyfrowo dowolne pierwi
 Moduł cyfrowej kuchni kwantowej generuje dowolne jedzenie takie jak od rolnika komputerowo. Replikatorem materii jest łącze Wi-Fi.
 Bio mod regenerator kwantowy to replikator materii zdolny do regenerowania narządów tak że kwantowo je naprawia np.: znika kwantowo nowotwór bez operacji i naprawia kwantowo uszkodzenia w naszym ciele bez operacji.
 Analiza kwantowa DNA rezonansem, kwantowe leczenie DNA na poziomie DNA z danej choroby przez Sztuczną Inteligencję.
+Moduł SI blokujący reklamy można zaisntalować go w każdym urządzeniu mający procesor i pamięć.
 # AI-Biomod
 AI Biomod artificial intelligence that heals quantum at the DNA level debugging DNA.
 The quantum AI doctor will heal any disease by reprogramming the DNA from today's tumors and the deformities will absorb and the cancer will heal and disappear
@@ -80,3 +81,4 @@ The digital mine module is a replicator of matter that digitally generates any c
 The digital quantum cuisine module generates any food, such as from a farmer's computer. The replicator of the matter is the Wi-Fi link.
 Bio mod quantum regenerator is a replicator of matter capable of regenerating organs, so that it quantitatively repairs them, for example: the quantum cancer disappears without surgery and quantifies the damage in our body without surgery.
 Quantum DNA analysis by resonance, quantum DNA treatment at the DNA level of a given disease by Artificial Intelligence.
+The SI blocking module can be installed in any device having a processor and memory.
