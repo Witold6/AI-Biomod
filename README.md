@@ -41,6 +41,7 @@ Bio mod regenerator kwantowy to replikator materii zdolny do regenerowania narz�
 Analiza kwantowa DNA rezonansem, kwantowe leczenie DNA na poziomie DNA z danej choroby przez Sztuczną Inteligencję.
 Moduł SI blokujący reklamy można zaisntalować go w każdym urządzeniu mający procesor i pamięć.
 Klasyfikacja zdjęć i zdjęć z ludzmi wg.: Atrakcyjności i przydatności na bazie analizy SI.
+Regeneracja biologii DNA jak odrastające organy i części ciała.
 # AI-Biomod
 AI Biomod artificial intelligence that heals quantum at the DNA level debugging DNA.
 The quantum AI doctor will heal any disease by reprogramming the DNA from today's tumors and the deformities will absorb and the cancer will heal and disappear
@@ -84,3 +85,4 @@ Bio mod quantum regenerator is a replicator of matter capable of regenerating or
 Quantum DNA analysis by resonance, quantum DNA treatment at the DNA level of a given disease by Artificial Intelligence.
 The SI blocking module can be installed in any device having a processor and memory.
 Classification of photos and photos with people according to: Attractiveness and usefulness based on SI analysis.
+Regeneration of DNA biology like growing organs and body parts.
