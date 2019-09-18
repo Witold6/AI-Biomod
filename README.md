@@ -43,6 +43,7 @@ Moduł SI blokujący reklamy można zaisntalować go w każdym urządzeniu mają
 Klasyfikacja zdjęć i zdjęć z ludzmi wg.: Atrakcyjności i przydatności na bazie analizy SI.
 Regeneracja biologii DNA jak odrastające organy i części ciała.
 Biomod telepatii i telekinezy elektromagnetycznej.
+Jest to uniwersalny program sztucznej inteligencji samouczący się, do leczenia każdej chorby na poziomie genetycznym jak i wprowadzaniu mutacji DNA by ziwiększyć możliwości naszego ciała.
 # AI-Biomod
 AI Biomod artificial intelligence that heals quantum at the DNA level debugging DNA.
 The quantum AI doctor will heal any disease by reprogramming the DNA from today's tumors and the deformities will absorb and the cancer will heal and disappear
@@ -88,3 +89,4 @@ The SI blocking module can be installed in any device having a processor and mem
 Classification of photos and photos with people according to: Attractiveness and usefulness based on SI analysis.
 Regeneration of DNA biology like growing organs and body parts.
 Biomod of telepathy and electromagnetic telekinesis.
+It is a universal, artificial, self-learning intelligence program for treating every disease at the genetic level as well as introducing DNA mutations to enhance the capabilities of our body.
