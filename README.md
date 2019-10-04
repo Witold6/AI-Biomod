@@ -44,6 +44,8 @@ Klasyfikacja zdjęć i zdjęć z ludzmi wg.: Atrakcyjności i przydatności na b
 Regeneracja biologii DNA jak odrastające organy i części ciała.
 Biomod telepatii i telekinezy elektromagnetycznej.
 Jest to uniwersalny program sztucznej inteligencji samouczący się, do leczenia każdej chorby na poziomie genetycznym jak i wprowadzaniu mutacji DNA by ziwiększyć możliwości naszego ciała.
+Posiada skanery do skanowania parametrów ciała sterowane przez sztuczną inteligencję.
+Program po wgraniu przez BCI lub programator kompilatorem do AVR całkowicie integruje się z naszym mózgiem i DNA.
 # AI-Biomod
 AI Biomod artificial intelligence that heals quantum at the DNA level debugging DNA.
 The quantum AI doctor will heal any disease by reprogramming the DNA from today's tumors and the deformities will absorb and the cancer will heal and disappear
@@ -90,3 +92,5 @@ Classification of photos and photos with people according to: Attractiveness and
 Regeneration of DNA biology like growing organs and body parts.
 Biomod of telepathy and electromagnetic telekinesis.
 It is a universal, artificial, self-learning intelligence program for treating every disease at the genetic level as well as introducing DNA mutations to enhance the capabilities of our body.
+It has scanners for scanning body parameters controlled by artificial intelligence.
+The program after uploading by BCI or programmer to AVR compiler completely integrates with our brain and DNA.
