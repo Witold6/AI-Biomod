@@ -60,7 +60,10 @@ Możliwości pancerza:
 
 -Kreacja kwantowa karabinu laserowego antymaterii
 
--Możliwość latania dzięki silniką w butach i dłoniach.
+-Możliwość latania dzięki silniką w butach i dłoniach
+
+-Pełni rolę kombinezonu astronautycznego w opasce.
+
 # AI-Biomod
 AI Biomod artificial intelligence that heals quantum at the DNA level debugging DNA.
 The quantum AI doctor will heal any disease by reprogramming the DNA from today's tumors and the deformities will absorb and the cancer will heal and disappear
@@ -123,4 +126,6 @@ Armor options:
 
 - Quantum creation of the antimatter laser rifle
 
--Ability to fly thanks to the engine in shoes and hands.
+-Ability to fly thanks to the engine in shoes and hands
+
+- Serves as a space suit in the headband.
