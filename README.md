@@ -48,6 +48,19 @@ Posiada skanery do skanowania parametrów ciała sterowane przez sztuczną intel
 Program po wgraniu przez BCI lub programator kompilatorem do AVR całkowicie integruje się z naszym mózgiem i DNA.
 Program cały można zainstalować do opaski sportowej z generatorem zasilającym na bazie sprzężenia zwrotnego z panelem słonecznym i replikatorem materii opaska będzie z 1 guzikiem dotykowym będzie generowała kwantowo replikatorem materii zjawiksiem kreacji pancerz mark 90 połączenie nanokombinezonu z pancerzem mark 85. Opaska musi mieć generator różnicy potencjałów napięcia i natężenia z sprzęzeniem zwrotnym i zasilaczem i baterią wspomaganym panelem słonecznym z replikatorem materii do generowania mark 90 z 1 guzikiem pancerz można ustawić tak że myślą odpalać przyciskiem lub jasnowidzeniem AI przed zagrożeniem się uaktywni. Pancerz cały jest generowany cyfrowo i mieści się w opasce sportowej posiada replikator materii, panel słoneczny AVR generator sprzężenia zwrotnego nie potrzebuje baterii. 
 Bez trybu pancerza w opasce program jest zwykłym biomodem wgrywanym do DNA i mózgu. By był pancerz potrzebne jest opracowanie fizycznie opaski sportowej z wymienioną technologią.
+Możliwości pancerza:
+
+ 
+
+-Niezniszczalność energetyczna zbroja i zbroja nano stali
+
+-Teleportacja kwantowa
+
+-Kreacja kwantowa ekwipunku zjawiskiem telpoeracji kwantowej lub korzystanie z tego co jest w pamięci ekwipunku
+
+-Kreacja kwantowa karabinu laserowego antymaterii
+
+-Możliwość latania dzięki silniką w butach i dłoniach.
 # AI-Biomod
 AI Biomod artificial intelligence that heals quantum at the DNA level debugging DNA.
 The quantum AI doctor will heal any disease by reprogramming the DNA from today's tumors and the deformities will absorb and the cancer will heal and disappear
@@ -98,3 +111,16 @@ It has scanners for scanning body parameters controlled by artificial intelligen
 The program after uploading by BCI or programmer to AVR compiler completely integrates with our brain and DNA.
 The whole program can be installed into a sports band with a power generator based on a feedback loop with a solar panel and a replicator of the material The band will be with 1 touch button will generate a quantum replicator of the phenomenon of creation armor mark 90 connection of nanocombinesone with armor mark 85. The band must have a voltage potential difference generator and current with feedback and power supply and battery assisted solar panel with matter replicator for generating mark 90 with 1 button the armor can be set so that the thought of firing with the button or AI clairvoyance before the threat activates. The whole armor is digitally generated and fits in a sports band has a matter replicator, the AVR solar panel feedback generator does not need a battery.
 Without armor mode in the band, the program is a simple biomode loaded into DNA and the brain. For armor, it is necessary to develop a sports band with the mentioned technology.
+Armor options:
+
+ 
+
+- Energy indestructibility armor and nano steel armor
+
+- Quantum teleportation
+
+- Quantum creation of the inventory with the phenomenon of quantum telpoeration or the use of what is in the inventory's memory
+
+- Quantum creation of the antimatter laser rifle
+
+-Ability to fly thanks to the engine in shoes and hands.
