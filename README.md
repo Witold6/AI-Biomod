@@ -63,7 +63,7 @@ Możliwości pancerza:
 -Możliwość latania dzięki silniką w butach i dłoniach
 
 -Pełni rolę kombinezonu astronautycznego w opasce.
-
+Auto reanimacja i auto regeneracja, funkcja anty śmierć god mode DNA.
 # AI-Biomod
 AI Biomod artificial intelligence that heals quantum at the DNA level debugging DNA.
 The quantum AI doctor will heal any disease by reprogramming the DNA from today's tumors and the deformities will absorb and the cancer will heal and disappear
@@ -129,3 +129,4 @@ Armor options:
 -Ability to fly thanks to the engine in shoes and hands
 
 - Serves as a space suit in the headband.
+Auto resuscitation and auto regeneration, anti death function god mode DNA.
