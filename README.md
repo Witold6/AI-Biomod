@@ -66,6 +66,7 @@ Możliwości pancerza:
 Auto reanimacja i auto regeneracja, funkcja anty śmierć god mode DNA.
 Telepatyczne BCI, sterowanie elektroniką falami radiowymi.
 Korzystanie z programowalnej magii myślą jak zamiana transmutacją 1 substancji w 2 lub telekinetyczne otwarcie drzwi itp.
+Sterować programem można też przez system okienek GUI.
 # AI-Biomod
 AI Biomod artificial intelligence that heals quantum at the DNA level debugging DNA.
 The quantum AI doctor will heal any disease by reprogramming the DNA from today's tumors and the deformities will absorb and the cancer will heal and disappear
@@ -134,4 +135,4 @@ Armor options:
 Auto resuscitation and auto regeneration, anti death function god mode DNA.
 Telepathic BCI, radio frequency electronics control.
 The use of programmable magic thinks like changing the transmutation of 1 substance into 2 or telekinetic opening of the door, etc.
-
+You can also control the program through the GUI window system.
