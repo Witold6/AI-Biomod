@@ -69,6 +69,7 @@ Korzystanie z programowalnej magii myślą jak zamiana transmutacją 1 substancj
 Sterować programem można też przez system okienek GUI.
 Kwantowy system konserwacji i zabezpieczeń sam się uczy.
 Oprogramowanie kwantowego uniwersalnego konstruktora.
+Animus moduł do badania pamięci genetycznej, odzyskiwania danych DNA i mózgu po amnezji. Pokazuje wspomnienia DNA na monitorze danego przodka.
 # AI-Biomod
 AI Biomod artificial intelligence that heals quantum at the DNA level debugging DNA.
 The quantum AI doctor will heal any disease by reprogramming the DNA from today's tumors and the deformities will absorb and the cancer will heal and disappear
@@ -140,3 +141,4 @@ The use of programmable magic thinks like changing the transmutation of 1 substa
 You can also control the program through the GUI window system.
 The quantum maintenance and security system learns by itself.
 Quantum Universal Designer software.
+Animus module for testing genetic memory, recovering DNA and brain data after amnesia. Shows DNA memories on the monitor of a given ancestor.
