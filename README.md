@@ -75,6 +75,8 @@ Kwantowy replikator materii
 Bio kwantowy rekonstruktor DNA i materii
 Kwantowa regeneracja DNA utrata kończyny kwantowe regenerowanie, kończyna kwantowo odrasta.
 Teleporter kwantowy
+Cyfrowa Apteczka
+Kwantowy Wehikuł czasu
 # AI-Biomod
 AI Biomod artificial intelligence that heals quantum at the DNA level debugging DNA.
 The quantum AI doctor will heal any disease by reprogramming the DNA from today's tumors and the deformities will absorb and the cancer will heal and disappear
@@ -152,3 +154,5 @@ A quantum matter replicator
 Bio quantum DNA and matter reconstructor
 Quantum DNA regeneration, loss of limb, quantum regeneration, limb grows back quantum.
 Quantum teleporter
+Digital First Aid Kit
+Quantum Time Machine
