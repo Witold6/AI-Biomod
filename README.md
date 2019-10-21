@@ -77,6 +77,7 @@ Kwantowa regeneracja DNA utrata kończyny kwantowe regenerowanie, kończyna kwan
 Teleporter kwantowy
 Cyfrowa Apteczka
 Kwantowy Wehikuł czasu
+Kwantowe efekty mocy: telekineza, elektrokineza, jasnowidzenie, kwantowe leczenie, itp.
 # AI-Biomod
 AI Biomod artificial intelligence that heals quantum at the DNA level debugging DNA.
 The quantum AI doctor will heal any disease by reprogramming the DNA from today's tumors and the deformities will absorb and the cancer will heal and disappear
@@ -156,3 +157,4 @@ Quantum DNA regeneration, loss of limb, quantum regeneration, limb grows back qu
 Quantum teleporter
 Digital First Aid Kit
 Quantum Time Machine
+Quantum power effects: telekinesis, electrokinesis, clairvoyance, quantum treatment, etc.
