@@ -74,6 +74,7 @@ Kwantowa stymulacja mózgu rzeczywistość rozszerzona.
 Kwantowy replikator materii
 Bio kwantowy rekonstruktor DNA i materii
 Kwantowa regeneracja DNA utrata kończyny kwantowe regenerowanie, kończyna kwantowo odrasta.
+Teleporter kwantowy
 # AI-Biomod
 AI Biomod artificial intelligence that heals quantum at the DNA level debugging DNA.
 The quantum AI doctor will heal any disease by reprogramming the DNA from today's tumors and the deformities will absorb and the cancer will heal and disappear
@@ -150,3 +151,4 @@ Quantum brain stimulation augmented reality.
 A quantum matter replicator
 Bio quantum DNA and matter reconstructor
 Quantum DNA regeneration, loss of limb, quantum regeneration, limb grows back quantum.
+Quantum teleporter
